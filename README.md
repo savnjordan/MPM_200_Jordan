@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+This code was used to analyze hummingbird data that has been pooled from more than 25 years of intake records from 3 rehabilitation centers to determine the factors that affect the survival of the patients. The main features include summaries of patients by rehabilitation center, summaries of patient survival by whether they received first aid, reason of admission, and age, calculations of proportions of patients released vs. died by center, and summaries of admissions by year and month. Outputs of this code include figures of number of patients by center, died vs. released by factor, proportions of released vs. died by center, and number of admissions by year and month. 
 
 ## Project Organization
 ------------
